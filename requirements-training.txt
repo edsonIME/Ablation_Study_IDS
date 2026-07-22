@@ -1,0 +1,6 @@
+# Training dependencies. Includes the analysis stack plus a GPU-enabled
+# TensorFlow. TensorFlow < 2.20 constrains numpy < 2.1, so use a dedicated env.
+-r requirements-analysis.txt
+tensorflow>=2.12,<2.20
+scikit-learn>=1.2,<1.7
+imbalanced-learn>=0.10,<0.14

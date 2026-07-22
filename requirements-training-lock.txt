@@ -1,0 +1,14 @@
+# EXACT training environment used to produce the reported results.
+# This file is a TEMPLATE: fill it in the machine that ran the experiments with
+#     python -m pip freeze > requirements-training-lock.txt
+# and record the system stack in the README "Reproducibility" table.
+# SANITIZE before publishing: remove any 'file:///home/...', '-e /path'
+# or 'user@host' lines -- they leak usernames/hostnames/paths.
+#
+# Placeholders (replace <...> with the actual pinned versions):
+# tensorflow==<x.y.z>
+# scikit-learn==<x.y.z>
+# imbalanced-learn==<x.y.z>
+# numpy==<x.y.z>
+# pandas==<x.y.z>
+# scipy==<x.y.z>

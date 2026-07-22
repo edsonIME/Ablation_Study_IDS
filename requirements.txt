@@ -1,0 +1,3 @@
+# Convenience aggregate = training environment (analysis + TensorFlow).
+# For analysis only (no TensorFlow), use: pip install -r requirements-analysis.txt
+-r requirements-training.txt

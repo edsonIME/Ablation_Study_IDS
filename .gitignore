@@ -1,0 +1,30 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Datasets (never commit; download per README)
+ALLFLOWMETER_HIKARI2021.csv
+CIRA.csv
+CIRA_filtrado.csv
+*.parquet
+
+# Experimental outputs
+results/
+results_smoke/
+results_*/
+feature_order_*.json
+results_demo/
+stats_report/
+*.log
+analysis_report*.txt
+statistical_tables*.tex
+table_rows.tex
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
