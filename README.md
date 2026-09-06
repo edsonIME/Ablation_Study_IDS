@@ -1,7 +1,7 @@
 # How Much Architecture Is Enough? A Controlled Ablation of Hybrid CNN–Attention IDS Models for HTTPS Traffic
 
-> **Anonymous repository — under double-blind review.**
-> All author-identifying information has been removed.
+> ** 15th Latin-American Symposium on Dependable and Secure Computing (LADC 2026) .**
+
 
 Code for a controlled, statistically grounded ablation study of hybrid
 CNN–ECA–Transformer architectures for intrusion detection over encrypted
