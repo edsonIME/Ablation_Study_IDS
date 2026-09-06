@@ -2,6 +2,16 @@
 
 > ** 15th Latin-American Symposium on Dependable and Secure Computing (LADC 2026) .**
 
+Official code repository for the paper How Much Architecture Is Enough? A Controlled Ablation of Hybrid CNN–Attention IDS Models for HTTPS Traffic", accepted at LADC 2026.
+
+Authors:
+
+    Edson B. de Souza (Military Institute of Engineering - IME, Brazil)
+
+    Paulo Cesar Pellanda (Military Institute of Engineering - IME, Brazil)
+
+    Ronaldo Moreira Salles (CIICESI, ESTG, Polytechnic of Porto, Portugal)
+
 
 Code for a controlled, statistically grounded ablation study of hybrid
 CNN–ECA–Transformer architectures for intrusion detection over encrypted
